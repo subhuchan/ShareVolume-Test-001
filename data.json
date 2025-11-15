@@ -1,0 +1,11 @@
+{
+  "entityName": "APA Corporation",
+  "max": {
+    "val": 100000000,
+    "fy": "2024"
+  },
+  "min": {
+    "val": 50000000,
+    "fy": "2021"
+  }
+}
